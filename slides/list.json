@@ -1,4 +1,16 @@
 [
-    "index.md",
-    "who-i-am.md"
+    {
+        "filename": "index.html",
+        "attr": {
+            "class": "home",
+            "data-background": "../resources/images/hojas-fondo.jpg",
+            "data-background-repeat": "repeat",
+            "data-background-size": "174px"
+        }
+    },
+    "who-i-am.html",
+    [
+      "joke.html",
+      "joke-1.html"
+    ]
 ]
