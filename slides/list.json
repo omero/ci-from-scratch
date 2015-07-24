@@ -3,7 +3,7 @@
         "filename": "index.html",
         "attr": {
             "class": "home",
-            "data-background": "../resources/images/hojas-fondo.jpg",
+            "data-background": "/resources/images/hojas-fondo.jpg",
             "data-background-repeat": "repeat",
             "data-background-size": "174px"
         }
