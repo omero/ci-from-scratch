@@ -1,16 +1,103 @@
 [
-    {
-        "filename": "index.html",
-        "attr": {
-            "class": "home",
-            "data-background": "resources/images/hojas-fondo.jpg",
-            "data-background-repeat": "repeat",
-            "data-background-size": "174px"
-        }
+  {
+    "filename": "cover.html",
+      "attr": {
+        "class": "home",
+        "data-background": "resources/images/hojas-fondo.jpg",
+        "data-background-repeat": "repeat",
+        "data-background-size": "174px"
+      }
     },
     "who-i-am.html",
     [
-      "joke.html",
+      "joke-0.html",
       "joke-1.html"
+    ],
+    [
+      "intro-0.html",
+      "intro-1.html"
+    ],
+      "agenda.html",
+    [
+      "slide-1-0.html",
+      "slide-1-1.html",
+      "slide-1-2.html"
+    ],
+    [
+      "slide-2-0.html",
+      "slide-2-1.html",
+      "slide-2-2.html",
+      {
+        "filename": "slide-2-3.html",
+        "attr": {
+          "data-background": "resources/images/chandler-dance.gif"
+        }
+      },
+      "slide-2-4.html",
+      "slide-2-5.html",
+      "slide-2-6.html",
+      "slide-2-7.html",
+      "slide-2-8.html",
+      "slide-2-9.html",
+      "slide-2-10.html"
+    ],
+    "slide-3-0.html",
+    [
+      "slide-4-0.html",
+       {
+        "filename": "slide-4-1.html",
+        "attr": {
+          "data-background": "#E35534"
+        }
+      },
+      "slide-4-2.html",
+      "slide-4-3.html",
+      {
+        "filename": "slide-4-4.html",
+        "attr": {
+          "data-background": "#E35534"
+        }
+      },
+      "slide-4-5.html",
+      "slide-4-6.html",
+      {
+        "filename": "slide-4-7.html",
+        "attr": {
+          "data-background": "#E35534"
+        }
+      },
+      "slide-4-8.html",
+      "slide-4-9.html",
+      "slide-4-10.html",
+      {
+        "filename": "slide-4-11.html",
+        "attr": {
+          "data-background": "#33B78B"
+        }
+      },
+      {
+        "filename": "slide-4-12.html",
+        "attr": {
+          "data-background": "#33B78B"
+        }
+      }
+    ],
+    [
+      "slide-5-0.html",
+      "slide-5-1.html",
+      {
+        "filename": "slide-5-2.html",
+        "attr": {
+          "data-background": "#33B78B"
+        }
+      },
+      "slide-5-3.html",
+      {
+        "filename": "slide-5-4.html",
+        "attr": {
+          "data-background": "#33B78B"
+        }
+      },
+      "slide-5-5.html"
     ]
 ]
