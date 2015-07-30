@@ -277,6 +277,9 @@ body {
 .reveal .white-text {
   color: white; }
 
+.reveal .center {
+  text-align: center; }
+
 .reveal section.home {
   background: #FFF; }
 
