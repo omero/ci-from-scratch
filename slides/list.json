@@ -98,6 +98,18 @@
           "data-background": "#33B78B"
         }
       },
-      "slide-5-5.html"
-    ]
+      "slide-5-5.html",
+      {
+        "filename": "slide-5-4.html",
+        "attr": {
+          "data-background": "#33B78B"
+        }
+      }
+    ],
+    {
+      "filename": "slide-6-0.html",
+      "attr": {
+        "data-background": "#33B78B"
+      }
+    }
 ]
