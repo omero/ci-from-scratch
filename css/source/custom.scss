@@ -1,9 +1,9 @@
 body{
-  color:black;
+  color:white;
 }
 
 .reveal {
-  color: black;
+  color: white;
 }
 .reveal .white-text{
   color: white;
@@ -16,7 +16,6 @@ body{
 .reveal {
   section {
     &.home {
-      background: #FFF;
     }
   }
 }
@@ -53,4 +52,9 @@ div.inline-block {
   margin: 0;
   padding: 0;
 }
-
+#logo-bottom-slides{
+  width: 100px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
