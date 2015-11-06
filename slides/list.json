@@ -2,17 +2,10 @@
   {
     "filename": "cover.html",
       "attr": {
-        "class": "home",
-        "data-background": "resources/images/hojas-fondo.jpg",
-        "data-background-repeat": "repeat",
-        "data-background-size": "174px"
+        "class": "home"
       }
     },
     "who-i-am.html",
-    [
-      "joke-0.html",
-      "joke-1.html"
-    ],
     [
       "intro-0.html",
       "intro-1.html"
@@ -73,66 +66,30 @@
       },
       "slide-4-8.html",
       "slide-4-9.html",
-      "slide-4-10.html",
-      {
-        "filename": "slide-4-11.html",
-        "attr": {
-          "data-background": "#33B78B"
-        }
-      },
-      {
-        "filename": "slide-4-12.html",
-        "attr": {
-          "data-background": "#33B78B"
-        }
-      }
+      "slide-4-10.html"
     ],
     [
       "slide-5-0.html",
       "slide-5-1.html",
-      {
-        "filename": "slide-5-2.html",
-        "attr": {
-          "data-background": "#33B78B"
-        }
-      },
       "slide-5-3.html",
-      {
-        "filename": "slide-5-4.html",
-        "attr": {
-          "data-background": "#33B78B"
-        }
-      },
-      "slide-5-5.html",
-      {
-        "filename": "slide-5-6.html",
-        "attr": {
-          "data-background": "#33B78B"
-        }
-      },
-      {
-        "filename": "slide-5-7.html",
-        "attr": {
-          "data-background": "#33B78B"
-        }
-      }
+      "slide-5-5.html"
     ],
     {
       "filename": "slide-6-0.html",
       "attr": {
-        "data-background": "#33B78B"
+        "data-background": "#E35534"
       }
     },
     {
       "filename": "slide-7-0.html",
       "attr": {
-        "data-background": "#33B78B"
+        "data-background": "#E35534"
       }
     },
     {
       "filename": "slide-8-0.html",
       "attr": {
-        "data-background": "#33B78B"
+        "data-background": "#E35534"
       }
     }
 ]
